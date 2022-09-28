@@ -1,4 +1,5 @@
-# tree-view-finder package
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # tree-view-finder package
 
 Alter the TreeView to Mac OS finder like.
 
